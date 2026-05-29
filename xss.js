@@ -1,1 +1,1 @@
-<img src=x onerror="alert(document.domain)">
+alert(document.domain);
